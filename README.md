@@ -1,0 +1,2 @@
+# backpropegation
+neural network model 
